@@ -1,0 +1,10 @@
+TemaBlogger News Index
+Material Design Icons by Pictogrammers, version 7.4.47.
+Embedded SVG paths used without modification, under Apache License 2.0.
+https://github.com/Templarian/MaterialDesign-SVG/tree/v7.4.47
+
+Icons used by this module:
+calendar-month-outline, filter-variant, newspaper-variant-outline,
+chevron-right, chevron-down.
+
+See LICENSE-APACHE-2.0.txt included with this module.
