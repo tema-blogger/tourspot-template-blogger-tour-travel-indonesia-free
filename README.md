@@ -8,7 +8,7 @@ Template Blogger tour dan travel Indonesia. Edisi Free untuk mencoba tampilan da
 
 ## Unduh dan demo
 
-- [Unduh Tourspot Free v1.5.6](Tourspot-v1.5.6-Free.xml) — buka file, lalu pilih **Raw / Download raw file**.
+- [Unduh Tourspot Free v1.5.7](Tourspot-v1.5.7-Free.xml) — buka file, lalu pilih **Raw / Download raw file**.
 - [Lihat demo produk](https://tourspot-temablogger.blogspot.com/) (demo produk lengkap, bukan demo pembatasan Free).
 - [Beli Tourspot Premium](https://www.temablogger.com/2026/11/tourspot-template-blogger-tour-travel-indonesia.html)
 - [Dashboard pelanggan Tema Blogger](https://www.temablogger.com/p/client-area.html#licenses)
@@ -27,6 +27,7 @@ Template Blogger tour dan travel Indonesia. Edisi Free untuk mencoba tampilan da
 - Kredit footer tetap: **© 2026 Template Blogger SEO Friendly By Tema Blogger. All rights reserved.** Tautan Tema Blogger menuju **https://www.temablogger.com/**.
 - Pengaturan konten, logo, menu, warna dan gadget selain bagian terkunci tetap mengikuti kemampuan masing-masing tema.
 - Untuk membuka pengaturan iklan dan kredit yang tersedia pada produk, beli dan aktifkan versi Premium.
+- Jika kredit footer atau kode inti edisi Free berubah, kredit dipulihkan dan muncul pemberitahuan dengan tombol menuju https://www.temablogger.com/. Pengaturan melalui Tata Letak tetap dapat digunakan.
 
 ## Pemasangan
 
@@ -43,7 +44,7 @@ Penggabungan Free → Premium diperiksa pada berkas XML lokal untuk 16 produk: i
 
 ## Versi dan kredit aset
 
-Edisi Free **1.5.6**, berdasarkan mesin tema Premium **1.5.5**. Ini kanal distribusi terpisah; paket pelanggan Premium tidak diganti.
+Edisi Free **1.5.7**, berdasarkan mesin tema Premium **1.5.5**. Ini kanal distribusi terpisah; paket pelanggan Premium tidak diganti.
 
 Ikon Material Design Icons berasal dari [Pictogrammers](https://pictogrammers.com/library/mdi/), dengan lisensi Apache 2.0 untuk aset ikon. Lihat `PICTOGRAMMERS-NOTICE.txt` dan `LICENSE-APACHE-2.0.txt`. Lisensi ikon tidak mengubah ketentuan tema.
 

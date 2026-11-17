@@ -1,4 +1,4 @@
-Tourspot Free v1.5.6
+Tourspot Free v1.5.7
 
 Cadangkan tema melalui Blogger > Tema > Cadangkan.
 Pasang XML melalui Tema > Pulihkan. Atur logo/menu/konten di Tata Letak.
@@ -6,3 +6,5 @@ Free: slot iklan tidak aktif dan kredit Tema Blogger tetap.
 Premium: https://www.temablogger.com/2026/11/tourspot-template-blogger-tour-travel-indonesia.html
 
 Upgrade tanpa menimpa pengaturan: unduh cadangan XML dari Blogger, gunakan fitur pembaruan XML yang sudah dipakai pada dashboard pelanggan, kemudian pasang hasilnya. Simpan backup.
+
+Kredit footer dan kode inti edisi Free wajib dipertahankan. Jika berubah, tema memulihkan kredit dan menampilkan tombol menuju temablogger.com. Pengaturan Tata Letak tetap dapat digunakan.
