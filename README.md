@@ -13,6 +13,10 @@ Template Blogger tour dan travel Indonesia. Edisi Free untuk mencoba tampilan da
 - [Beli Tourspot Premium](https://www.temablogger.com/2026/11/tourspot-template-blogger-tour-travel-indonesia.html)
 - [Dashboard pelanggan Tema Blogger](https://www.temablogger.com/p/client-area.html#licenses)
 
+## Dukung developer
+
+Jika tema ini bermanfaat, beri ⭐ Star pada [repositori ini](https://github.com/tema-blogger/tourspot-template-blogger-tour-travel-indonesia-free) dan bagikan tautannya kepada pengguna Blogger lain. Dukungan Anda membantu pengembangan tema gratis. Terima kasih sudah menghargai karya developer; semoga bermanfaat dan membawa berkah.
+
 ## Fitur tampilan
 
 - Katalog paket wisata
