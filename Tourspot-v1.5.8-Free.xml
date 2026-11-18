@@ -48,10 +48,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 -->
 
-<!-- TemaBlogger release | product=tourspot | releaseVersion=1.5.7 | date=2026-11-17 | delivery=free-v1 | basePremiumVersion=1.5.5 -->
+<!-- TemaBlogger release | product=tourspot | releaseVersion=1.5.8 | date=2026-11-18 | delivery=free-v1 | basePremiumVersion=1.5.5 -->
 
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:b="http://www.google.com/2005/gml/b" xmlns:data="http://www.google.com/2005/gml/data" xmlns:expr="http://www.google.com/2005/gml/expr" b:css="false" b:defaultwidgetversion="2" b:layoutsVersion="3" b:responsive="true" expr:dir="data:blog.languageDirection" lang="id" b:templateVersion="1.5.7">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:b="http://www.google.com/2005/gml/b" xmlns:data="http://www.google.com/2005/gml/data" xmlns:expr="http://www.google.com/2005/gml/expr" b:css="false" b:defaultwidgetversion="2" b:layoutsVersion="3" b:responsive="true" expr:dir="data:blog.languageDirection" lang="id" b:templateVersion="1.5.8">
 <!-- Tourspot v1.5.0 | TemaBlogger distribution --><!-- Tourspot v1.4.1 | index-8 fidelity rebuild | SOURCE pemilik -->
 <head><meta charset="utf-8"/><meta content="width=device-width, initial-scale=1" name="viewport"/><title><data:blog.pageTitle/></title><b:include data="blog" name="all-head-content"/><meta content="#2563EB" name="theme-color"/><link href="https://fonts.googleapis.com" rel="preconnect"/><link crossorigin="anonymous" href="https://fonts.gstatic.com" rel="preconnect"/><link href="https://dreamstour.dreamstechnologies.com/html/assets/css/animate.css" rel="stylesheet"/><link href="https://dreamstour.dreamstechnologies.com/html/assets/css/bootstrap.min.css" rel="stylesheet"/><link href="https://dreamstour.dreamstechnologies.com/html/assets/css/meanmenu.css" rel="stylesheet"/><link href="https://dreamstour.dreamstechnologies.com/html/assets/plugins/swiper/swiper-bundle.min.css" rel="stylesheet"/><link href="https://dreamstour.dreamstechnologies.com/html/assets/plugins/glightbox/glightbox.min.css" rel="stylesheet"/><link href="https://dreamstour.dreamstechnologies.com/html/assets/plugins/flatpickr/flatpickr.min.css" rel="stylesheet"/><b:skin><![CDATA[/* Variable definitions — Tourspot v1.4.1
 <Group description="01 · Warna utama dan logo" selector="body">
@@ -377,7 +377,7 @@ body#layout .tb-free-lock-note{display:block;color:#52627a;font-size:13px}
 <b:section class='tb-license-settings' id='tbLicenseSettings' name='Lisensi Tema Blogger' showaddelement='yes'>
   <b:widget id='HTML98' locked='true' title='License Key' type='HTML' version='2' visible='true'>
     <b:widget-settings><b:widget-setting name='content'></b:widget-setting></b:widget-settings>
-    <b:includable id='main'><div hidden='hidden' class='tb-free-edition-note'>Versi Free. Untuk iklan dan pengaturan kredit footer, gunakan paket Premium.</div></b:includable>
+    <b:includable id='main'><div hidden='hidden' class='tb-free-edition-note'>Edisi Free aktif tanpa pembelian atau kode lisensi. TemaBlogger adalah pembuat template ini. Pengaturan logo, menu, warna, dan gadget tetap dikelola melalui Tata Letak.</div></b:includable>
   </b:widget>
 </b:section>
 <div id="ts-domain-context" hidden="hidden" expr:data-official-preview="data:view.isPreview"></div>

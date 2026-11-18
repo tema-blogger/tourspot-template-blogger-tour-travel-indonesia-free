@@ -8,7 +8,7 @@ Template Blogger tour dan travel Indonesia. Edisi Free untuk mencoba tampilan da
 
 ## Unduh dan demo
 
-- [Unduh Tourspot Free v1.5.7](Tourspot-v1.5.7-Free.xml) — buka file, lalu pilih **Raw / Download raw file**.
+- [Unduh Tourspot Free v1.5.8](Tourspot-v1.5.8-Free.xml) — buka file, lalu pilih **Raw / Download raw file**.
 - [Lihat demo produk](https://tourspot-temablogger.blogspot.com/) (demo produk lengkap, bukan demo pembatasan Free).
 - [Beli Tourspot Premium](https://www.temablogger.com/2026/11/tourspot-template-blogger-tour-travel-indonesia.html)
 - [Dashboard pelanggan Tema Blogger](https://www.temablogger.com/p/client-area.html#licenses)
@@ -33,6 +33,10 @@ Jika tema ini bermanfaat, beri ⭐ Star pada [repositori ini](https://github.com
 - Untuk membuka pengaturan iklan dan kredit yang tersedia pada produk, beli dan aktifkan versi Premium.
 - Jika kredit footer atau kode inti edisi Free berubah, kredit dipulihkan dan muncul pemberitahuan dengan tombol menuju https://www.temablogger.com/. Pengaturan melalui Tata Letak tetap dapat digunakan.
 
+## Pembaruan Free tanpa kehilangan pengaturan
+
+Edisi Free tetap aktif tanpa pembelian atau kode lisensi. Panel lisensi di Tata Letak menunjukkan identitas TemaBlogger dan tidak menayangkan promosi tersembunyi di situs Anda. Sebelum memperbarui, unduh **Tema → Cadangkan** dari blog yang sedang dipakai. Jalankan `python UPDATE-FREE.py backup.xml Tourspot-v1.5.8-Free.xml hasil-update.xml`, lalu unggah `hasil-update.xml` melalui Tema → Pulihkan. Alat ini mempertahankan isi, judul, dan visibilitas gadget yang ID-nya sama serta nilai warna Tema Designer. Jika ada gadget tambahan atau jenis gadget berubah, alat berhenti untuk mencegah kehilangan data. Lihat [koleksi template Blogger](https://www.temablogger.com/p/template.html).
+
 ## Pemasangan
 
 1. Unduh file XML Free di atas.
@@ -48,7 +52,7 @@ Penggabungan Free → Premium diperiksa pada berkas XML lokal untuk 16 produk: i
 
 ## Versi dan kredit aset
 
-Edisi Free **1.5.7**, berdasarkan mesin tema Premium **1.5.5**. Ini kanal distribusi terpisah; paket pelanggan Premium tidak diganti.
+Edisi Free **1.5.8**, berdasarkan mesin tema Premium **1.5.5**. Ini kanal distribusi terpisah; paket pelanggan Premium tidak diganti.
 
 Ikon Material Design Icons berasal dari [Pictogrammers](https://pictogrammers.com/library/mdi/), dengan lisensi Apache 2.0 untuk aset ikon. Lihat `PICTOGRAMMERS-NOTICE.txt` dan `LICENSE-APACHE-2.0.txt`. Lisensi ikon tidak mengubah ketentuan tema.
 
